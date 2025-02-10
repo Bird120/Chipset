@@ -46,16 +46,3 @@ execute
 ```
 
 
-digital-chipset-simulator/
-├── Chipset/                # Contains logic components (AND, OR, etc.) (in progress)
-│   ├── ANDGate.cpp         # AND gate implementation (4081) (in progress)
-│   ├── ORGate.cpp          # OR gate implementation (4071) (in progress)
-│   └── ANDGate.cpp         # AND gate implementation (4081) (in progress)
-├── Error/                  # Structured Exception handling classes
-├── System/                 # System management and Singleton implementation
-├── fileParser/             # File parsing and input processing
-├── include/                # Header files for the project
-├── main.cpp                # Program entry point
-├── Makefile                # Makefile for building the project
-└── README.md               # Project documentation (this file)
-
